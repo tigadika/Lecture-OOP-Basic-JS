@@ -102,7 +102,7 @@ class OfTwentyTwenty {
 
 ## Object instance dengan property dinamis
 
-sebuah class harus terdapat `constructor()` untuk mendefine property yang akan dimiliki object instance.
+sebuah class biasanya terdapat `constructor()` untuk mendefine property yang akan dimiliki object instance.
 
 Karena `constructor()` adalah sebuah function (term dalam OOPnya method). Dan layaknya sebuah function, ia dapat menerima `parameter`. Artinya kita dapat mengirim `parameter` agar value dari property sebuah object instance nanti menjadi dinamis.
 
